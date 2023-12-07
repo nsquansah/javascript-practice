@@ -13,7 +13,7 @@ userPrompt.innerHTML = "Too low!";
 }else if (userInput > secretNUmber){
 userPrompt.innerHTML = "Too high!";
 }else {
-userPrompt.innerHTML = "You guessed right!"
+userPrompt.innerHTML = "Correct, You guessed right!"
 }
 }
 }
